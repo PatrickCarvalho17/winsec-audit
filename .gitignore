@@ -1,0 +1,13 @@
+# Output do script (não subir laudos gerados)
+WinSecAudit_*.html
+WinSecAudit_*.json
+WinSecAudit_*.csv
+
+# Sistema
+Thumbs.db
+desktop.ini
+*.tmp
+
+# IDE
+.vscode/
+.idea/
