@@ -6,7 +6,7 @@ Cada check é mapeado para **CIS Controls v8** e **NIST Cybersecurity Framework*
 
 ## 📸 Preview
 
-![Relatório WinSecAudit](screenshots/report-preview.png)
+![Preview do relatório](Capturas%20de%20tela/report-preview.png)
 
 ## ✨ Features
 
