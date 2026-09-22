@@ -1,6 +1,6 @@
 # WinSecAudit
 
-Ferramenta de auditoria de postura de segurança para endpoints Windows. Analisa **38 vetores de segurança** em 5 categorias, gera score de postura (0-100), e exporta laudo HTML, JSON e CSV.
+Ferramenta de auditoria de postura de segurança para endpoints Windows. Analisa **39 vetores de segurança** em 5 categorias, gera score de postura (0-100), e exporta laudo HTML, JSON e CSV.
 
 Cada check é mapeado para **CIS Controls v8** e **NIST Cybersecurity Framework**.
 
