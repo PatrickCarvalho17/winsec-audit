@@ -6,7 +6,7 @@ Cada check é mapeado para **CIS Controls v8** e **NIST Cybersecurity Framework*
 
 ## 📸 Preview
 
-![Preview do relatório](Capturas%20de%20tela/report-preview.png)
+![Preview do relatório](screenshots/01-overview.png)
 
 ## ✨ Features
 
